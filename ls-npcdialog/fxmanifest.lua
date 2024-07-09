@@ -2,6 +2,11 @@ fx_version 'bodacious'
 lua54 'yes'
 game 'gta5'
 
+name         'ls-npcdialog'
+version      '1.0.0'
+description  'np v4 npc dialog'
+author       'Luffy'
+
 client_scripts {'config.lua','client.lua'}
 
 server_script 'server.lua'
