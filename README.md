@@ -2,6 +2,7 @@
 * Preview : [Discord](https://discord.gg/YZfD5226Tw)
 * NOPIXEL V4 Inspired npc dialog Script For qb-core
 
+![npc](https://github.com/LuffyV2/ls-npcdialog/assets/107729862/04ad7efd-15b8-4695-9c81-b175396debd0)
 
 # Installations
 
