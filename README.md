@@ -1,5 +1,5 @@
 # NPC Dialog [ls-npcdialog]
-* Preview : [YOUTUBE] https://youtu.be/__lfpCdBGCU
+* Preview : [Discord](https://discord.gg/YZfD5226Tw)
 * NOPIXEL V4 Inspired npc dialog Script For qb-core
 
 
