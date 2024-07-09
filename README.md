@@ -6,7 +6,7 @@
 # Installations
 
 ```
-1 . Drag And Drop qb-radio you downloaded from our github
+1 . Drag And Drop ls-npcdialog you downloaded from our github
 ```
 
 # DEPENDENCIES
